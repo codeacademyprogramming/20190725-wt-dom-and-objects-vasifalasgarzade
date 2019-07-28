@@ -1,0 +1,37 @@
+.esas-div {
+    display: flex;
+    text-align: center;
+}
+
+.esas-div p {
+    color: #7c878e;
+    font-size: 25px;
+    margin: 0 9px;
+}
+
+.esas-div img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 29px 0;
+}
+
+h5 {
+    font-size: 18px;
+    color: rgb(190, 165, 117);
+}
+
+.write {
+    text-align: center;
+    color: rgb(190, 165, 117);
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.write-2 {
+    font-size: 60px;
+    color: rgba(165, 161, 161, 0.548);
+    text-align: center;
+    f
+}
